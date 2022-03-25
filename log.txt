@@ -1,0 +1,1 @@
+2022-03-25 09:35:23.621  INFO 6096 --- [RMI TCP Connection(725)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
